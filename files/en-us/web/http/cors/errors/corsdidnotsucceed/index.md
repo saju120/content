@@ -35,6 +35,5 @@ Other possible causes include:
 
 ## See also
 
-- [CORS errors](/en-US/docs/Web/HTTP/CORS/Errors)
 - Glossary: {{Glossary("CORS")}}
 - [CORS introduction](/en-US/docs/Web/HTTP/CORS)
